@@ -133,7 +133,7 @@
        x2="130.70494"
        y2="61.446342"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.68320034,0,0,0.83887361,21.741609,39.117582)" />
+       gradientTransform="matrix(0.68320034,0,0,0.86958385,21.741609,36.632556)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -228,9 +228,9 @@
        style="display:inline;fill:url(#linearGradient3574);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
        id="rect1648"
        width="79.301369"
-       height="17.152225"
+       height="17.780149"
        x="70.683884"
-       y="89.845741" />
+       y="89.217819" />
     <g
        id="full-text"
        transform="matrix(0.69259892,0,0,0.69259892,59.725025,-0.47832112)"
@@ -357,14 +357,19 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.0487px;line-height:1.2;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono, Normal';font-variant-ligatures:no-common-ligatures discretionary-ligatures;font-variant-caps:normal;font-variant-numeric:ordinal;font-variant-east-asian:normal;font-variation-settings:normal;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;letter-spacing:-0.013338px;word-spacing:0px;writing-mode:lr-tb;display:inline;vector-effect:none;fill:#423a1d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.130153;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5;stop-color:#000000"
-       x="77.613594"
-       y="100.22566"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.2;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono, Normal';font-variant-ligatures:no-common-ligatures discretionary-ligatures;font-variant-caps:normal;font-variant-numeric:ordinal;font-variant-east-asian:normal;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;letter-spacing:-0.013338px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;vector-effect:none;fill:#423a1d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.130153;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5;stop-color:#000000"
+       x="110.28655"
+       y="97.769081"
        id="text905"><tspan
          sodipodi:role="line"
          id="tspan903"
-         x="77.613594"
-         y="100.22566"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.0487px;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono, Normal';font-variant-ligatures:no-common-ligatures discretionary-ligatures;font-variant-caps:normal;font-variant-numeric:ordinal;font-variant-east-asian:normal;font-variation-settings:normal;vector-effect:none;fill:#423a1d;fill-opacity:1;stroke:none;stroke-width:0.130153;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5;stop-color:#000000;stop-opacity:1">U+A66E CYRILLIC LETTER MULTIOCULAR O</tspan></text>
+         x="110.28655"
+         y="97.769081"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono, Normal';font-variant-ligatures:no-common-ligatures discretionary-ligatures;font-variant-caps:normal;font-variant-numeric:ordinal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;vector-effect:none;fill:#423a1d;fill-opacity:1;stroke:none;stroke-width:0.130153;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5;stop-color:#000000;stop-opacity:1">U+A66E</tspan><tspan
+         sodipodi:role="line"
+         x="110.27988"
+         y="102.00242"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono, Normal';font-variant-ligatures:no-common-ligatures discretionary-ligatures;font-variant-caps:normal;font-variant-numeric:ordinal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;vector-effect:none;fill:#423a1d;fill-opacity:1;stroke:none;stroke-width:0.130153;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5;stop-color:#000000;stop-opacity:1"
+         id="tspan1568">CYRILLIC LETTER MULTIOCULAR O</tspan></text>
   </g>
 </svg>
